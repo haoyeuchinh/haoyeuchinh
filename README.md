@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects that aim to solve real-world problems.
 - 📫 How to reach me: You can reach me at https://www.facebook.com/c0mplex.870.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play League of Legends and I'm always up for a game because I'm hasn't been Platinum yet!
+- ⚡ Fun fact: I love to play League of Legends and I'm always up for a game because I'm hasn't been Platinum yet! My Riot ID is `c0mplex#3009`
 
 <!---
 haoyeuchinh/haoyeuchinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
